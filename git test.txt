@@ -1,2 +1,3 @@
 git test file
 clone에서 수정
+pull 원격 저장소의 내용을 가져오기
